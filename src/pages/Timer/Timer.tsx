@@ -13,7 +13,7 @@ const Timer: FC = () => {
     const [milliseconds, setMilliSeconds] = useState<number>(0);
     const [seconds, setSeconds] = useState<number>(0);
     const [minuts, setMinuts] = useState<number>(0);
-    const [button, setButton] = useState<string>('запустить');
+    const [button, setButton] = useState<string>(TimerButton.Start);
 
     const intervalRef = useRef<NodeJS.Timer>();
 
