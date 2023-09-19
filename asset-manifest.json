@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/timer-countdown/static/js/main.c7f0329a.js",
+    "index.html": "/timer-countdown/index.html",
+    "main.c7f0329a.js.map": "/timer-countdown/static/js/main.c7f0329a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c7f0329a.js"
+  ]
+}
